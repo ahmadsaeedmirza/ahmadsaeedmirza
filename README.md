@@ -13,7 +13,7 @@
 
 * 👋 Hi, I am **ahmadsaeedmirza** (Ahmad Saeed)
 * 🎓 Computer Science Undergraduate Student
-* 💻 I build full-stack web, desktop, and web-based software systems — specializing in **Offline-First Application Architecture** and POS systems
+* 💻 I build full-stack web, desktop, and web-based software systems and POS systems
 * 🛠️ 4+ years of professional full-stack and freelance development experience
 * 🔗 LinkedIn: https://linkedin.com/in/ahmadsaeedmirza
 
